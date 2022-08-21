@@ -1,6 +1,6 @@
 ## 《WiFi过滤器》是一款屏蔽Windows不需要的WiFi信号的软件
-## 开发理念
- 由于Windows的无线网络自动切换机制非常辣鸡，断开某个网络后经常出现不自动切换另一个的情况，因此有了这款工具，方便用户快速手动切换。
+### 开发理念
+由于Windows的无线网络自动切换机制非常辣鸡，断开某个网络后经常出现不自动切换另一个的情况，因此有了这款工具，方便用户快速手动切换。
 [![](https://raw.githubusercontent.com/CzJam/WiFi_SSID_Filter/master/WIFI_Filter/1.png)](https://raw.githubusercontent.com/CzJam/WiFi_SSID_Filter/master/WIFI_Filter/1.png)
 ------------
 ###使用说明
